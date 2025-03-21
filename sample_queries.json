@@ -1,0 +1,4 @@
+[
+  {"question": "What is the average price of a hotel booking?", "expected_answer": 100.0},
+  {"question": "Which country had the most bookings?", "expected_answer": "PRT"}
+]
